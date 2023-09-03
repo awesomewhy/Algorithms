@@ -1,6 +1,6 @@
-package Interface;
+package Algorithms;
 
-public class Working{
+public class yjtgyjgtjy {
     public static void main(String[] args) {
 
     }

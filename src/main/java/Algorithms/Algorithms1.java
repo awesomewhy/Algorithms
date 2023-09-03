@@ -1,6 +1,8 @@
 package Algorithms;
 
+
 public class Algorithms1 {
+
     public static void main(String[] args) {
         int[] y = {-1, 2, 1, -4};
         int target = qwe(y, 2);

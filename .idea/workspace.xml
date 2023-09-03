@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/yjtgyjgtjy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/Algorithms1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Algorithms1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interface/Working.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interface/Working.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2TkEOxe6J1ZCCbvrJ7cPMNVaBMY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3758454&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="" />
+      <created>1691578650928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691578650928</updated>
+      <workItem from="1691578651932" duration="15931000" />
+      <workItem from="1691609812753" duration="13000" />
+      <workItem from="1691620234734" duration="139000" />
+      <workItem from="1691620383049" duration="1205000" />
+      <workItem from="1691674892565" duration="2032000" />
+      <workItem from="1691717781327" duration="335000" />
+      <workItem from="1691760415951" duration="15231000" />
+      <workItem from="1691839492723" duration="4875000" />
+      <workItem from="1691846183930" duration="20000" />
+      <workItem from="1691849360616" duration="344000" />
+      <workItem from="1691866877520" duration="3589000" />
+      <workItem from="1691878934445" duration="8333000" />
+      <workItem from="1691931080336" duration="8085000" />
+      <workItem from="1691967839300" duration="2895000" />
+      <workItem from="1691974625420" duration="183000" />
+      <workItem from="1692055124153" duration="592000" />
+      <workItem from="1692105755834" duration="1312000" />
+      <workItem from="1692113677338" duration="3200000" />
+      <workItem from="1692194099405" duration="1243000" />
+      <workItem from="1692202987898" duration="1785000" />
+      <workItem from="1692213277557" duration="10152000" />
+      <workItem from="1692237669755" duration="621000" />
+      <workItem from="1692284390922" duration="2083000" />
+      <workItem from="1692286516622" duration="16000" />
+      <workItem from="1692288511063" duration="487000" />
+      <workItem from="1692289679401" duration="19305000" />
+      <workItem from="1692325316998" duration="4439000" />
+      <workItem from="1692365701916" duration="1720000" />
+      <workItem from="1692398501935" duration="583000" />
+      <workItem from="1692400249841" duration="612000" />
+      <workItem from="1692478858233" duration="1376000" />
+      <workItem from="1692573612715" duration="1176000" />
+      <workItem from="1692593653043" duration="1548000" />
+      <workItem from="1692668994987" duration="2046000" />
+      <workItem from="1692708068103" duration="824000" />
+      <workItem from="1692709315300" duration="2791000" />
+      <workItem from="1692832709293" duration="2495000" />
+      <workItem from="1692836773509" duration="6894000" />
+      <workItem from="1692864499084" duration="978000" />
+      <workItem from="1692869832664" duration="5000" />
+      <workItem from="1692923988043" duration="1446000" />
+      <workItem from="1692925627003" duration="5000" />
+      <workItem from="1693016267935" duration="52000" />
+      <workItem from="1693112890648" duration="2153000" />
+      <workItem from="1693117910543" duration="4333000" />
+      <workItem from="1693130388416" duration="960000" />
+      <workItem from="1693195488775" duration="879000" />
+      <workItem from="1693198737889" duration="306000" />
+      <workItem from="1693223291891" duration="2305000" />
+      <workItem from="1693235086064" duration="3680000" />
+      <workItem from="1693240774414" duration="6000" />
+      <workItem from="1693288027675" duration="4000" />
+      <workItem from="1693474413996" duration="155000" />
+      <workItem from="1693480247608" duration="12025000" />
+      <workItem from="1693510706462" duration="1544000" />
+      <workItem from="1693555566604" duration="1687000" />
+      <workItem from="1693582280919" duration="1444000" />
+      <workItem from="1693600185465" duration="1351000" />
+      <workItem from="1693644795626" duration="333000" />
+      <workItem from="1693645282850" duration="48000" />
+      <workItem from="1693667021148" duration="3665000" />
+      <workItem from="1693689302982" duration="2398000" />
+      <workItem from="1693730655300" duration="428000" />
+      <workItem from="1693736848375" duration="95000" />
+      <workItem from="1693736953011" duration="2000" />
+      <workItem from="1693746014191" duration="615000" />
+      <workItem from="1693751803547" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bin" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

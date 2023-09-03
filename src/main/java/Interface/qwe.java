@@ -1,7 +1,7 @@
 package Interface;
 
-public class Working{
+public class qwe {
     public static void main(String[] args) {
-
+        
     }
 }

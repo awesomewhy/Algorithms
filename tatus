@@ -1,0 +1,30 @@
+[33mcommit b1808f0611509b41077174eedb4316224ff16f19[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: d440102 2a512fe
+Author: serenty <serenty395@gmail.com>
+Date:   Thu Aug 31 16:11:43 2023 +0300
+
+    Merge branch 'main' of https://github.com/serentyxd/asd
+
+[33mcommit d440102aa908cdb3cd779e16c88d9fd5f8776c04[m
+Author: serenty <serenty395@gmail.com>
+Date:   Thu Aug 31 16:08:07 2023 +0300
+
+    Tretiy commit
+
+[33mcommit 2a512fee5d28eb412441e3f38a0b29d18c734f4b[m
+Author: serenty <125137685+serentyxd@users.noreply.github.com>
+Date:   Wed Aug 30 09:46:34 2023 +0300
+
+    Delete .idea directory
+
+[33mcommit 3ca510ea7c7905ae12c567fc90f11394c6f95b97[m
+Author: serenty <serenty395@gmail.com>
+Date:   Mon Aug 28 19:16:44 2023 +0300
+
+    SecondCommit
+
+[33mcommit 7f2be55c787ed2686e928f98a3402343fd6b3a2c[m
+Author: serenty <125137685+serentyxd@users.noreply.github.com>
+Date:   Mon Aug 28 18:55:38 2023 +0300
+
+    First commit
