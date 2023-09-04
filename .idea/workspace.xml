@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/yjtgyjgtjy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/Algorithms1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Algorithms1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interface/Working.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interface/Working.java" afterDir="false" />
-    </list>
+    <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,6 +127,7 @@
       <workItem from="1693736953011" duration="2000" />
       <workItem from="1693746014191" duration="615000" />
       <workItem from="1693751803547" duration="48000" />
+      <workItem from="1693813103285" duration="4000" />
     </task>
     <servers />
   </component>
