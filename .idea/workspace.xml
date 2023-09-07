@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="" />
+    <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Comporators/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Comporators/SortById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Comporators/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +53,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.3758454&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -128,6 +133,11 @@
       <workItem from="1693746014191" duration="615000" />
       <workItem from="1693751803547" duration="48000" />
       <workItem from="1693813103285" duration="4000" />
+      <workItem from="1694014232537" duration="211000" />
+      <workItem from="1694039982247" duration="277000" />
+      <workItem from="1694041913787" duration="19000" />
+      <workItem from="1694084323566" duration="8000" />
+      <workItem from="1694084703630" duration="948000" />
     </task>
     <servers />
   </component>
