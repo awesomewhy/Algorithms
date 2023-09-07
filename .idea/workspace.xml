@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Comporators/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Comporators/SortById.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Comporators/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/as.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Comporators/SortById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Comporators/SortById.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +136,8 @@
       <workItem from="1694039982247" duration="277000" />
       <workItem from="1694041913787" duration="19000" />
       <workItem from="1694084323566" duration="8000" />
-      <workItem from="1694084703630" duration="948000" />
+      <workItem from="1694084703630" duration="1698000" />
+      <workItem from="1694088505900" duration="2023000" />
     </task>
     <servers />
   </component>
@@ -153,6 +153,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
