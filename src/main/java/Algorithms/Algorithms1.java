@@ -12,11 +12,8 @@ public class Algorithms1 {
     public static int qwe(int[] nums, int target) {
         int result = 0;
         for (int i = 0; i < nums.length; i++) {
-
             int sum = recurs(nums,i,i+1,i+2,0);
             result = Math.max(result,sum);
-
-
         }
         return result;
     }

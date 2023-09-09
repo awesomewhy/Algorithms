@@ -48,7 +48,6 @@ public class reggre {
         {
             return;
         }
-        Integer x = 12;
         y[i][j] = '0';
 
 
