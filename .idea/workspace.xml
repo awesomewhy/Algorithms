@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/Algorithms1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Algorithms1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ergmko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ergmko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/reggre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/reggre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +138,11 @@
       <workItem from="1694084703630" duration="1698000" />
       <workItem from="1694088505900" duration="3406000" />
       <workItem from="1694097391449" duration="1116000" />
-      <workItem from="1694292754095" duration="397000" />
+      <workItem from="1694292754095" duration="991000" />
+      <workItem from="1694299214901" duration="8000" />
+      <workItem from="1694299227627" duration="1003000" />
+      <workItem from="1694349343668" duration="598000" />
+      <workItem from="1694354860262" duration="758000" />
     </task>
     <servers />
   </component>
