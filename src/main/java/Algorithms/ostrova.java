@@ -1,6 +1,6 @@
 package Algorithms;
 
-public class reggre {
+public class ostrova {
     public static void main(String[] args) {
         char[][] map1 = {
                 {'1', '0', '0'},
@@ -58,6 +58,7 @@ public class reggre {
         qwe(y , i ,j + 1 );
 
         qwe(y , i ,j - 1 );
+
 
         qwe(y , i - 1 , j - 1 );
         qwe(y , i + 1 , j + 1 );

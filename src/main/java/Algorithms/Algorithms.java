@@ -1,7 +1,7 @@
 package Algorithms;
 
 import java.util.Arrays;
-
+//q
 public class Algorithms {
     public static void main(String[] args) {
         String[] y = {"flower","flow","flight"};

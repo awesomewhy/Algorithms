@@ -2,7 +2,7 @@ package Algorithms;
 
 import java.util.Scanner;
 
-public class rstghrthtrddyjthty {
+public class yandexzadanie {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

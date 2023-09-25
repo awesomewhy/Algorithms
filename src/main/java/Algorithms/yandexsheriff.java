@@ -3,7 +3,7 @@ package Algorithms;
 import java.util.*;
 
 
-public class egrregrge {
+public class yandexsheriff {
     public static void main(String[] args) {
 //        System.out.println(revolvers(3,4));
         System.out.println(sheriff("sheriqffsheriff"));
