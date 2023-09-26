@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/EGERERG.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/as.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/egrregrge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/yandexsheriff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ergkjh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/gfd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/reggre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ostrova.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/rstghrthtrddyjthty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/yandexzadanie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/waeggwarga.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,6 +151,7 @@
       <workItem from="1695497350838" duration="71000" />
       <workItem from="1695511586259" duration="265000" />
       <workItem from="1695612995288" duration="5000" />
+      <workItem from="1695618567013" duration="82000" />
     </task>
     <servers />
   </component>
