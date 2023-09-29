@@ -48,7 +48,7 @@ public class yandexsheriff {
                 if(Character.isLetter(d))
                 {
                     f = true;//asd
-                    break;
+                    break;//zxc
                 }
                 if(!f)
                 {
