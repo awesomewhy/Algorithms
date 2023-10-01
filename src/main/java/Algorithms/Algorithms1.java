@@ -24,7 +24,7 @@ public class Algorithms1 {
         }
         sum = nums[i] + nums[j] + nums[k];
         recurs(nums, i + 1,j + 1, k + 1, sum);
-        return sum;
+        return sum;//asd
     }
 
 
