@@ -18,13 +18,13 @@ public class Algorithms1 {
         return result;
     }
     public static int recurs(int[] nums, int i, int j, int k, int sum) {
-        if(i >= nums.length || j >= nums.length || k >= nums.length)//asd
+        if(i >= nums.length || j >= nums.length || k >= nums.length)
         {
             return sum;
         }
         sum = nums[i] + nums[j] + nums[k];
         recurs(nums, i + 1,j + 1, k + 1, sum);
-        return sum;//asd
+        return sum;
     }
 
 
