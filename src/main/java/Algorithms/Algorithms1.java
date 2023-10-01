@@ -18,7 +18,7 @@ public class Algorithms1 {
         return result;
     }
     public static int recurs(int[] nums, int i, int j, int k, int sum) {
-        if(i >= nums.length || j >= nums.length || k >= nums.length)
+        if(i >= nums.length || j >= nums.length || k >= nums.length)//asd
         {
             return sum;
         }
