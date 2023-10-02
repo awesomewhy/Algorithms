@@ -20,7 +20,7 @@ public class Algorithms {
                 ind++;
             }
             else {
-                break;//asd
+                break;
             }
         }
         return s1.substring(0,ind);
