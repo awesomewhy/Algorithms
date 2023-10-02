@@ -6,7 +6,7 @@ public class Algorithms {
     public static void main(String[] args) {
         String[] y = {"flower","flow","flight"};
         String s = longestCommonPrefix(y);
-        System.out.println(s);
+        System.out.println(s);//asd
     }
     public static String longestCommonPrefix(String[] y) {
         Arrays.sort(y);
