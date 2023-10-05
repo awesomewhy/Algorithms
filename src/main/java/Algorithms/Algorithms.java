@@ -17,7 +17,7 @@ public class Algorithms {
         {
             if(s1.charAt(ind) == s2.charAt(ind))
             {
-                ind++;
+                ind++;//asd
             }
             else {
                 break;
