@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/lengthlastword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/lengthlastword.java" afterDir="false" />
     </list>
@@ -172,7 +175,11 @@
       <workItem from="1696611718664" duration="4177000" />
       <workItem from="1696628979515" duration="960000" />
       <workItem from="1696689061363" duration="7971000" />
-      <workItem from="1696723987585" duration="1944000" />
+      <workItem from="1696723987585" duration="3342000" />
+      <workItem from="1696728953294" duration="27000" />
+      <workItem from="1696770958796" duration="9000" />
+      <workItem from="1696881564340" duration="416000" />
+      <workItem from="1696882584775" duration="691000" />
     </task>
     <servers />
   </component>

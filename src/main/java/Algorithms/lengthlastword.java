@@ -7,9 +7,9 @@ import java.util.Scanner;
 //Помогите , пожалуйста(
 public class lengthlastword {
     public static void main(String[] args) {
-        int[] y = { -5, -7, -2, 3, -4, 2 , -9, 2, 6, -5};
+        int[] y = { -5, -7, -2, 3, -4 , -9, -5};
         int q = Integer.MAX_VALUE;
-        int index = 0;
+        int index = 0;//q
 
         for (int i = index; i < y.length; i++) {
             if (y[i] > 0 && q > y[i]) {
