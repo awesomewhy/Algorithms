@@ -17,7 +17,7 @@ public class lengthlastword {
                 index = i;
             }
         }
-
+//q
 //        for (int i = 0; i < y.length; i++) {
 //            if(y[i] > 0){
 //                q = y[i];
