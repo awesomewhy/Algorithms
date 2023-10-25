@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a41571b-6faf-4541-9c02-f387c95f915d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Stringqwe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Zakaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/фывясч.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,6 +187,13 @@
       <workItem from="1697061934187" duration="8000" />
       <workItem from="1697066414367" duration="744000" />
       <workItem from="1697308370425" duration="18000" />
+      <workItem from="1697308398780" duration="289000" />
+      <workItem from="1697525177195" duration="1306000" />
+      <workItem from="1697641180265" duration="3263000" />
+      <workItem from="1697986309785" duration="147000" />
+      <workItem from="1698075335487" duration="5569000" />
+      <workItem from="1698081017729" duration="8047000" />
+      <workItem from="1698159398693" duration="14000" />
     </task>
     <servers />
   </component>
